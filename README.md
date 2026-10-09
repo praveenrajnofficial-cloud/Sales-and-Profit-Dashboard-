@@ -13,7 +13,6 @@ A Tableau dashboard built from an Excel orders dataset (51,290 rows).
 ## Files
 - Tableau-Sample-Data-set.xlsx: source data
 - Dashboard_1.pdf: exported dashboard
-- (add your .twbx workbook here)
 
 ## Tools
 Tableau, Excel
